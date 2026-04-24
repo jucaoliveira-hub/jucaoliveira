@@ -1,4 +1,7 @@
-<img width="850" height="300" alt="banner" src="https://github.com/user-attachments/assets/1c1b8787-bbd0-46f5-82b5-dc7eae12c682" />
+
+<img width="850" height="300" alt="Turning Strategy into Intelligent Systems" src="https://github.com/user-attachments/assets/10e0290f-3bd1-45b5-ad38-0bc7ce49a7c2" />
+
+
 # "Hello, World!" 👋 Eu sou o Juca Dolci
 **Business Strategist & AI Builder**
 
