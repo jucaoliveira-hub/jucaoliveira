@@ -25,3 +25,10 @@
 - 🌐 **Meu Portfólio:** [jucadolci.netlify.app](https://jucadolci.netlify.app/)
 - 💼 **LinkedIn:** https://www.linkedin.com/in/jucaaoliveiraa
 - ✉️ **Email:** jucaaoliveiraa.13@gmail.com
+
+- ### 📊 Meus Dados & Atividade
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jucaoliveira-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucaoliveira-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
