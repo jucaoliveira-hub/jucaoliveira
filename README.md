@@ -1,3 +1,4 @@
+<img width="850" height="300" alt="banner" src="https://github.com/user-attachments/assets/1c1b8787-bbd0-46f5-82b5-dc7eae12c682" />
 # "Hello, World!" 👋 Eu sou o Juca Dolci
 **Business Strategist & AI Builder**
 
