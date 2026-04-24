@@ -1,5 +1,5 @@
 
-<img width="850" height="300" alt="Turning Strategy into Intelligent Systems" src="https://github.com/user-attachments/assets/10e0290f-3bd1-45b5-ad38-0bc7ce49a7c2" />
+<img width="850" height="300" alt="Turning Strategy into Intelligent Systems (1)" src="https://github.com/user-attachments/assets/4455dfef-5001-45c1-b560-b68c4c431c14" />
 
 
 # "Hello, World!" 👋 Eu sou o Juca Dolci
