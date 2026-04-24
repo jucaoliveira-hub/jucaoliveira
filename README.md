@@ -19,5 +19,5 @@
 
 ### 📫 Como me encontrar
 - 🌐 **Meu Portfólio:** [jucadolci.netlify.app](https://jucadolci.netlify.app/)
-- 💼 **LinkedIn:** [[Insira o link do seu LinkedIn aqui](https://www.linkedin.com/in/jucaaoliveiraa)]
+- 💼 **LinkedIn:** [(https://www.linkedin.com/in/jucaaoliveiraa)]
 - ✉️ **Email:** jucaaoliveiraa.13@gmail.com
